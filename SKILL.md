@@ -1,10 +1,10 @@
 ---
 name: design-taste-full
 description: >
-  Merged synthesis of leonxlnx/taste-skill (anti-slop layout, typography, color, design systems,
-  architecture, pre-flight) and emilkowalski/skill (animation decision framework, spring physics,
-  clip-path, gesture interactions, component craft, performance). Full-stack frontend taste skill for
-  landing pages, portfolios, redesigns, and production-grade UI components.
+  Use when building or redesigning landing pages, portfolios, company profiles, marketing sites,
+  or any production-grade UI component. Apply when the user mentions visual polish, animations,
+  typography, layout, color, or anything about how the page looks and feels. Not for dashboards,
+  data tables, or multi-step product UI.
 ---
 
 # Design Taste — Full Skill
